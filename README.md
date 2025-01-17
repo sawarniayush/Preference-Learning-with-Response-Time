@@ -89,10 +89,6 @@ Interactive preference learning systems infer human preferences by presenting qu
 
 ---
 
-
-  * run_Clithero.jl, plot_results.jl, plot_results_v2_violinBox.py
-* Fig.6: run_Clithero.jl, plot_to_determine_best_eta.jl, plot_to_determine_best_eta.py
-
 * Fig.4(b) and Fig.7
   * Run `experiments/run_Clithero.jl` (set the global variable in this file `tune_η = false`), which will produce result files, `experiments/run_Clithero/processed_result.yaml`, `experiments/run_Clithero/results_7s1.dat`, `experiments/run_Clithero/results_7s2.dat`, `experiments/run_Clithero/results_7s3.dat`, ...
   * Run `python experiments/run_foodrisk_Clithero_Krajbich_plot.py` (set the global variable `problem_name = "Clithero"`), which will produce `experiments/run_Clithero/Clithero_2_NoLegend.pdf` (Fig.4(b)) and `experiments/run_Clithero/Clithero_6_NoLegend.pdf` (Fig.7)
