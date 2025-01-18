@@ -56,7 +56,7 @@ function main()
     num_subjects = length(subjectIdx_2_params) # 31
 
     subject_idxs = collect(1:num_subjects)
-    # subject_idxs = [1, 2] # for debug
+    # subject_idxs = [1, 2, 3] # for debug
 
     for subject_idx in subject_idxs
         @time run_1_subject(subject_idx, base_path, SSM_path, result_path, num_subjects)
