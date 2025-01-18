@@ -32,6 +32,8 @@ Interactive preference learning systems infer human preferences by presenting qu
 
 
 ## Code to reproduce the simulation results
+* This code is originally designed based on the [code](https://github.com/AndreaTirinzoni/bandit-elimination) for the paper [`Tirinzoni, A., & Degenne, R. (2022). On elimination strategies for bandit fixed-confidence identification. Advances in Neural Information Processing Systems, 35, 18586-18598.`](https://proceedings.neurips.cc/paper_files/paper/2022/hash/760564ebba4797d0dcf1678e96e8cbcb-Abstract-Conference.html)
+
 ### Installation
 * Tested on `julia version 1.10.4` by `Julia --version`
 * Open a terminal
