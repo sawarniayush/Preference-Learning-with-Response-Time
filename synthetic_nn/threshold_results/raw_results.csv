@@ -1,0 +1,5 @@
+algorithm,train_file,test_file,threshold,run_id,accuracy,mse,regret,seed
+log_loss_learner.py,data_threshold/train_20000_0.5_0.pkl,data_threshold/test_20000_0.5_0.pkl,0.5,0,0.686,8.9983,0.3705,0
+nonorthogonal_loss_learner.py,data_threshold/train_20000_0.5_0.pkl,data_threshold/test_20000_0.5_0.pkl,0.5,0,0.7295,7.3076,0.265,0
+log_loss_learner.py,data_threshold/train_20000_0.7_0.pkl,data_threshold/test_20000_0.7_0.pkl,0.7,0,0.721,9.5254,0.4079,0
+nonorthogonal_loss_learner.py,data_threshold/train_20000_0.7_0.pkl,data_threshold/test_20000_0.7_0.pkl,0.7,0,0.75,7.7205,0.2948,0

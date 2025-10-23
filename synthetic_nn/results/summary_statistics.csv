@@ -1,0 +1,5 @@
+,,accuracy,accuracy,accuracy,accuracy,mse,mse,mse,mse,regret,regret,regret,regret
+,,mean,std,min,max,mean,std,min,max,mean,std,min,max
+algorithm,train_size,,,,,,,,,,,,
+log_loss_learner.py,500,0.67,,0.67,0.67,7.7149,,7.7149,7.7149,0.4081,,0.4081,0.4081
+nonorthogonal_loss_learner.py,500,0.64,,0.64,0.64,7.9609,,7.9609,7.9609,0.6351,,0.6351,0.6351

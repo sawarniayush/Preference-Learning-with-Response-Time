@@ -1,0 +1,1 @@
+python generate_plots.py --algorithms log_loss_learner.py orthogonal_loss_learner.py orthogonal_loss_learner_splitting.py nonorthogonal_loss_learner.py --use raw  --output my_plots --min-size 1000 --font-size1 24 --font-size2 18
