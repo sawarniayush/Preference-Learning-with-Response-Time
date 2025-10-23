@@ -1,0 +1,6 @@
+# General Python ignores
+__pycache__/
+*.pyc
+
+# macOS finder cruft
+.DS_Store
