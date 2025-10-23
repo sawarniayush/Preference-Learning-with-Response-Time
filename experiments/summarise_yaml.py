@@ -9,7 +9,7 @@ method_map = {
     "LM_trans": "LZR+24",
     "LMOrtho_trans": "Ours",
 }
-budgets = [100,200,300]##[500, 1000, 1500]
+budgets = [500, 1000, 1500]
 
 # === LOAD YAML ===
 with open(yaml_file, "r") as f:
