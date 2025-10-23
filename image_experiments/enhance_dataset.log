@@ -1,0 +1,9 @@
+2025-10-22 23:15:13,730 - INFO - Detected local directory data/mock_raw; using load_from_disk
+2025-10-22 23:15:13,730 - INFO - Loading dataset from data/mock_raw
+2025-10-22 23:15:13,748 - INFO - Loading model from openai/clip-vit-base-patch32
+2025-10-22 23:15:36,995 - INFO - Using device: cpu
+2025-10-22 23:15:36,995 - INFO - Processing train split with 5 rows
+2025-10-22 23:15:36,995 - INFO - Using sample of 5 rows
+2025-10-22 23:15:38,444 - INFO - Saved train to data/mock_enhanced/train
+2025-10-22 23:15:38,447 - INFO - Enhancement complete. Complete DatasetDict saved to data/mock_enhanced
+2025-10-22 23:15:38,447 - INFO - You can now load the full dataset with: dataset = load_from_disk('data/mock_enhanced')

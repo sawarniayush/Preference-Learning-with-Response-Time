@@ -1,0 +1,178 @@
+[
+  {
+    "script": "log_loss_learner_large.py",
+    "seed": 42,
+    "num_samples": 400000,
+    "gpu_id": 0,
+    "success": true,
+    "accuracy": 0.7623,
+    "mse": 1.1666,
+    "policy_value": 21.7609,
+    "regret": 0.0798
+  },
+  {
+    "script": "orthogonal_loss_learner_large.py",
+    "seed": 42,
+    "num_samples": 400000,
+    "gpu_id": 1,
+    "success": true,
+    "accuracy": 0.7648,
+    "mse": 0.528,
+    "policy_value": 21.7679,
+    "regret": 0.0728
+  },
+  {
+    "script": "nonorthogonal_loss_learner_large.py",
+    "seed": 42,
+    "num_samples": 400000,
+    "gpu_id": 2,
+    "success": true,
+    "accuracy": 0.7609,
+    "mse": 0.7713,
+    "policy_value": 21.7625,
+    "regret": 0.0782
+  },
+  {
+    "script": "orthogonal_loss_learner_crossfit.py",
+    "seed": 42,
+    "num_samples": 400000,
+    "gpu_id": 3,
+    "success": true,
+    "accuracy": 0.7654,
+    "mse": 0.61,
+    "policy_value": 21.7662,
+    "regret": 0.0745
+  },
+  {
+    "script": "log_loss_learner_large.py",
+    "seed": 123,
+    "num_samples": 400000,
+    "gpu_id": 0,
+    "success": true,
+    "accuracy": 0.7674,
+    "mse": 1.0554,
+    "policy_value": 21.7736,
+    "regret": 0.0796
+  },
+  {
+    "script": "orthogonal_loss_learner_large.py",
+    "seed": 123,
+    "num_samples": 400000,
+    "gpu_id": 1,
+    "success": true,
+    "accuracy": 0.7668,
+    "mse": 0.5556,
+    "policy_value": 21.78,
+    "regret": 0.0733
+  },
+  {
+    "script": "nonorthogonal_loss_learner_large.py",
+    "seed": 123,
+    "num_samples": 400000,
+    "gpu_id": 2,
+    "success": true,
+    "accuracy": 0.7763,
+    "mse": 0.8186,
+    "policy_value": 21.7806,
+    "regret": 0.0726
+  },
+  {
+    "script": "orthogonal_loss_learner_crossfit.py",
+    "seed": 123,
+    "num_samples": 400000,
+    "gpu_id": 3,
+    "success": true,
+    "accuracy": 0.7676,
+    "mse": 0.5491,
+    "policy_value": 21.7774,
+    "regret": 0.0758
+  },
+  {
+    "script": "log_loss_learner_large.py",
+    "seed": 456,
+    "num_samples": 400000,
+    "gpu_id": 0,
+    "success": true,
+    "accuracy": 0.7675,
+    "mse": 1.0315,
+    "policy_value": 21.774,
+    "regret": 0.0802
+  },
+  {
+    "script": "orthogonal_loss_learner_large.py",
+    "seed": 456,
+    "num_samples": 400000,
+    "gpu_id": 1,
+    "success": true,
+    "accuracy": 0.7643,
+    "mse": 0.5874,
+    "policy_value": 21.7763,
+    "regret": 0.0778
+  },
+  {
+    "script": "nonorthogonal_loss_learner_large.py",
+    "seed": 456,
+    "num_samples": 400000,
+    "gpu_id": 2,
+    "success": true,
+    "accuracy": 0.7644,
+    "mse": 0.8114,
+    "policy_value": 21.7739,
+    "regret": 0.0802
+  },
+  {
+    "script": "orthogonal_loss_learner_crossfit.py",
+    "seed": 456,
+    "num_samples": 400000,
+    "gpu_id": 3,
+    "success": true,
+    "accuracy": 0.7662,
+    "mse": 0.549,
+    "policy_value": 21.7791,
+    "regret": 0.0751
+  },
+  {
+    "script": "log_loss_learner_large.py",
+    "seed": 789,
+    "num_samples": 400000,
+    "gpu_id": 0,
+    "success": true,
+    "accuracy": 0.7589,
+    "mse": 1.0058,
+    "policy_value": 21.7583,
+    "regret": 0.0803
+  },
+  {
+    "script": "orthogonal_loss_learner_large.py",
+    "seed": 789,
+    "num_samples": 400000,
+    "gpu_id": 1,
+    "success": true,
+    "accuracy": 0.7714,
+    "mse": 0.5548,
+    "policy_value": 21.7683,
+    "regret": 0.0703
+  },
+  {
+    "script": "nonorthogonal_loss_learner_large.py",
+    "seed": 789,
+    "num_samples": 400000,
+    "gpu_id": 2,
+    "success": true,
+    "accuracy": 0.7662,
+    "mse": 0.8299,
+    "policy_value": 21.7623,
+    "regret": 0.0763
+  },
+  {
+    "script": "orthogonal_loss_learner_crossfit.py",
+    "seed": 789,
+    "num_samples": 400000,
+    "gpu_id": 3,
+    "success": true,
+    "accuracy": 0.77,
+    "mse": 0.5475,
+    "policy_value": 21.7642,
+    "regret": 0.0744
+  }
+]
