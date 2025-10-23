@@ -1,2 +1,5 @@
 .DS_Store
 .vscode/*
+
+# Ignore .dat files in experiments folder
+experiments/**/*.dat
