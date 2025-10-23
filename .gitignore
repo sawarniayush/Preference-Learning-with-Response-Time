@@ -30,7 +30,7 @@ wheels/
 *.pkl
 *.csv
 data_files/
-data_gen/*.pkl
+data_gen/__pycache__
 *.h5
 *.hdf5
 
