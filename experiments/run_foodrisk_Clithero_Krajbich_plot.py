@@ -1,4 +1,8 @@
+import matplotlib
+matplotlib.rcParams['text.usetex'] = False
+matplotlib.rcParams['text.usetex'] = False
 import matplotlib.pyplot as plt
+
 import numpy as np
 import yaml
 import os
@@ -13,13 +17,24 @@ problem_name = "foodrisk"
 # problem_name = "Krajbich"
 
 
+# algName_2_latex = {
+#     "Wagenmakers07Eq5_trans": r"$(\lambda_{\text{trans}},\widehat{\theta}_{\text{CH,logit}})$",
+#     "GLM_weakPref": r"$(\lambda_{\text{weak}},\widehat{\theta}_{\text{CH}})$",
+#     "GLM_trans": r"$(\lambda_{\text{trans}},\widehat{\theta}_{\text{CH}})$",
+#     "LM_trans": r"$(\lambda_{\text{trans}},\widehat{\theta}_{\text{CH,DT}})$",
+#     "LM_trans_noSubt": r"$(\lambda_{\text{trans}},\widehat{\theta}_{\text{CH,}\mathbb{RT}})$",
+#     "Chiong24Lemma1_trans": r"$(\lambda_{\text{trans}},\widehat{\theta}_{\text{CH,DT,logit}})$",
+# }
+
+##Here's exactly what to replace in your algName_2_latex dictionary:
 algName_2_latex = {
-    "Wagenmakers07Eq5_trans": r"$(\lambda_{\text{trans}},\widehat{\theta}_{\text{CH,logit}})$",
-    "GLM_weakPref": r"$(\lambda_{\text{weak}},\widehat{\theta}_{\text{CH}})$",
-    "GLM_trans": r"$(\lambda_{\text{trans}},\widehat{\theta}_{\text{CH}})$",
-    "LM_trans": r"$(\lambda_{\text{trans}},\widehat{\theta}_{\text{CH,DT}})$",
-    "LM_trans_noSubt": r"$(\lambda_{\text{trans}},\widehat{\theta}_{\text{CH,}\mathbb{RT}})$",
-    "Chiong24Lemma1_trans": r"$(\lambda_{\text{trans}},\widehat{\theta}_{\text{CH,DT,logit}})$",
+    "Wagenmakers07Eq5_trans": r"$(\lambda_{trans},\hat{\theta}_{CH,logit})$",
+    "GLM_weakPref": r"$(\lambda_{weak},\hat{\theta}_{CH})$",
+    "GLM_trans": r"$(\lambda_{trans},\hat{\theta}_{CH})$",
+    "LM_trans": r"$(\lambda_{trans},\hat{\theta}_{CH,DT})$",
+    "LM_trans_noSubt": r"$(\lambda_{trans},\hat{\theta}_{CH,RT})$",
+    "Chiong24Lemma1_trans": r"$(\lambda_{trans},\hat{\theta}_{CH,DT,logit})$",
+    "LMOrtho_trans": r"$(\lambda_{trans},\hat{\theta}_{CH,DT,ortho})$"
 }
 
 algName_color_hatches = [
@@ -29,6 +44,7 @@ algName_color_hatches = [
     ("LM_trans", '#e6550d', ''),
     ("LM_trans_noSubt", "#fdae6b", ''),
     ("Chiong24Lemma1_trans", "#fee6ce", ''),
+    ("LMOrtho_trans", "#fd8d3c", ''),              # Orange between the two LM variants
 ]
 
 problemName_2_budgets = {
@@ -44,7 +60,7 @@ def main(plot_all_budgets):
     file_path = os.path.realpath(__file__)
     dir_path = os.path.dirname(file_path)
     result_filepath = os.path.join(
-        dir_path, "run_"+problem_name, "processed_result.yaml")
+        dir_path, "run_"+problem_name, "processed_result_parallel.yaml")
     plot_path = os.path.join(dir_path, "run_"+problem_name)
 
     box_plot_width = 0.4
@@ -55,12 +71,12 @@ def main(plot_all_budgets):
         figure_size = (20, 5)
 
     # Enable LaTeX rendering in Matplotlib
-    plt.rc('text', usetex=True)
-    plt.rc('font', family='serif')
-    # https://stackoverflow.com/questions/23824687/text-does-not-work-in-a-matplotlib-label
-    # https://stackoverflow.com/questions/65426069/use-of-mathbb-in-matplotlib
-    # for \text and \mathbb command
-    mpl.rcParams['text.latex.preamble'] = r'\usepackage{amsmath,amsfonts}'
+    # plt.rc('text', usetex=True)
+    # plt.rc('font', family='serif')
+    # # https://stackoverflow.com/questions/23824687/text-does-not-work-in-a-matplotlib-label
+    # # https://stackoverflow.com/questions/65426069/use-of-mathbb-in-matplotlib
+    # # for \text and \mathbb command
+    # mpl.rcParams['text.latex.preamble'] = r'\usepackage{amsmath,amsfonts}'
 
     algName_2_eta = {}  # eta is uniquely determined by problem_name
     budgets = []
@@ -97,7 +113,8 @@ def main(plot_all_budgets):
     category_colors = [x[1]
                        for x in algName_color_hatches]  # parallel to groups
     # hatches = [x[2] for x in algName_color_hatches]  # parallel to groups
-    group_labels = [r'${:.0f}$'.format(x) for x in groups]
+    ##group_labels = [r'${:.0f}$'.format(x) for x in groups]
+    group_labels = ['{:.0f}'.format(x) for x in groups]
     category_labels = [algName_2_latex[x] for x in categories]
 
     data = []
@@ -189,9 +206,12 @@ def main(plot_all_budgets):
     ax.spines['right'].set_visible(False)
 
     ax.set_xlabel("Budget (sec)", fontsize=20)
+    # ax.set_ylabel(
+    #     r"$\text{Error probability }\mathbb{P}\left[\widehat{z}\neq z^*\right]$",
+    #     fontsize=20)
     ax.set_ylabel(
-        r"$\text{Error probability }\mathbb{P}\left[\widehat{z}\neq z^*\right]$",
-        fontsize=20)
+        r"Error probability P[$\hat{z} \neq z^*$]",
+    fontsize=20)
 
     path = os.path.join(plot_path, problem_name + '_' +
                         str(len(budgets))+'_legend.pdf')

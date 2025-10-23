@@ -1,0 +1,4445 @@
+LM_trans_noSubt:
+  2:
+    500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.6
+        budget: 500
+        mistake_at_budget_stderr: 0.05897678246195885
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.02005611766180097
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.5285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.06009457202204592
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.0279434083955329
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.24285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.051622592377504946
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.055886816791065795
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.2571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.05261569834670154
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 500
+        mistake_at_budget_stderr: 0.031004097581515393
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.22857142857142856
+        budget: 500
+        mistake_at_budget_stderr: 0.05055152782453617
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.22857142857142856
+        budget: 500
+        mistake_at_budget_stderr: 0.05055152782453617
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.7857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.04939743391486604
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.6714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.05654448612875198
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.5142857142857142
+        budget: 500
+        mistake_at_budget_stderr: 0.06016835298540291
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 500
+        mistake_at_budget_stderr: 0.05897678246195885
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.45714285714285713
+        budget: 500
+        mistake_at_budget_stderr: 0.05997140203803452
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.21428571428571427
+        budget: 500
+        mistake_at_budget_stderr: 0.04939743391486604
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.5
+        budget: 500
+        mistake_at_budget_stderr: 0.0601929265428846
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.7142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.054384784830491494
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.6285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.05816884316617732
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.055886816791065795
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 500
+        mistake_at_budget_stderr: 0.05897678246195885
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.22857142857142856
+        budget: 500
+        mistake_at_budget_stderr: 0.05055152782453617
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.2
+        budget: 500
+        mistake_at_budget_stderr: 0.04815434123430768
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344993
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 500
+        mistake_at_budget_stderr: 0.059798537847176154
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 500
+        mistake_at_budget_stderr: 0.05859944792614803
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 500
+        mistake_at_budget_stderr: 0.05859944792614803
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 500
+        mistake_at_budget_stderr: 0.05979853784717617
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 500
+        mistake_at_budget_stderr: 0.031004097581515393
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.0279434083955329
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.014285714285714287
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 500
+        mistake_at_budget_stderr: 0.0
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.04381267429485673
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 500
+        mistake_at_budget_stderr: 0.058976782461958845
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.014285714285714287
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.6142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.058599447926148025
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.9285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.031004097581515393
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 500
+        mistake_at_budget_stderr: 0.0
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.055886816791065795
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 500
+        mistake_at_budget_stderr: 0.05979853784717617
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.45714285714285713
+        budget: 500
+        mistake_at_budget_stderr: 0.05997140203803452
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 500
+        mistake_at_budget_stderr: 0.059798537847176154
+    1000:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.18571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.046815160711083895
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.12857142857142856
+        budget: 1000
+        mistake_at_budget_stderr: 0.04029615300200893
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.04381267429485673
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.024382343386820524
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.6714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.05654448612875198
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.05930186364895273
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.2571428571428571
+        budget: 1000
+        mistake_at_budget_stderr: 0.05261569834670154
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.12857142857142856
+        budget: 1000
+        mistake_at_budget_stderr: 0.04029615300200893
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.11428571428571428
+        budget: 1000
+        mistake_at_budget_stderr: 0.0383017178628478
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.06009457202204592
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.6857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.0558868167910658
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.21428571428571427
+        budget: 1000
+        mistake_at_budget_stderr: 0.04939743391486604
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.0279434083955329
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.4142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.05930186364895273
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.22857142857142856
+        budget: 1000
+        mistake_at_budget_stderr: 0.05055152782453617
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 1000
+        mistake_at_budget_stderr: 0.03611575592573076
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.04381267429485673
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.4857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.0601683529854029
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.027943408395532898
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1000
+        mistake_at_budget_stderr: 0.031004097581515393
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.0279434083955329
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 1000
+        mistake_at_budget_stderr: 0.05897678246195885
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.7571428571428571
+        budget: 1000
+        mistake_at_budget_stderr: 0.051622592377504946
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.02005611766180097
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.12857142857142856
+        budget: 1000
+        mistake_at_budget_stderr: 0.04029615300200893
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.04381267429485673
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.06009457202204592
+    1500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.027943408395532898
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.5428571428571428
+        budget: 1500
+        mistake_at_budget_stderr: 0.05997140203803452
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.6
+        budget: 1500
+        mistake_at_budget_stderr: 0.05897678246195885
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 1500
+        mistake_at_budget_stderr: 0.059798537847176154
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 1500
+        mistake_at_budget_stderr: 0.036115755925730755
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.5
+        budget: 1500
+        mistake_at_budget_stderr: 0.0601929265428846
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.6
+        budget: 1500
+        mistake_at_budget_stderr: 0.05897678246195885
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.0279434083955329
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.054384784830491494
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.11428571428571428
+        budget: 1500
+        mistake_at_budget_stderr: 0.03830171786284779
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1500
+        mistake_at_budget_stderr: 0.031004097581515393
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 1500
+        mistake_at_budget_stderr: 0.05979853784717617
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.11428571428571428
+        budget: 1500
+        mistake_at_budget_stderr: 0.03830171786284779
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.054384784830491494
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.06009457202204592
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820528
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1500
+        mistake_at_budget_stderr: 0.0310040975815154
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 1500
+        mistake_at_budget_stderr: 0.058976782461958845
+LM_trans:
+  2:
+    500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.5285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.06009457202204592
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.024382343386820528
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344994
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.0279434083955329
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.054384784830491494
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.34285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.05714285714285714
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.054384784830491494
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.24285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.051622592377504946
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344993
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.055886816791065795
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.8142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.046815160711083895
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.05930186364895273
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.05930186364895273
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.5285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.06009457202204592
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.06009457202204592
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.054384784830491494
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.5714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344994
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.7428571428571429
+        budget: 500
+        mistake_at_budget_stderr: 0.05261569834670154
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.8
+        budget: 500
+        mistake_at_budget_stderr: 0.04815434123430768
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.3
+        budget: 500
+        mistake_at_budget_stderr: 0.05516772843673704
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 500
+        mistake_at_budget_stderr: 0.05979853784717617
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.2714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.053535184426749045
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.21428571428571427
+        budget: 500
+        mistake_at_budget_stderr: 0.04939743391486604
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.5285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.06009457202204592
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.5142857142857142
+        budget: 500
+        mistake_at_budget_stderr: 0.06016835298540291
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344993
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344993
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.6714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.05654448612875198
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.17142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.045371384764595464
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.21428571428571427
+        budget: 500
+        mistake_at_budget_stderr: 0.04939743391486604
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.014285714285714287
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.027943408395532898
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.21428571428571427
+        budget: 500
+        mistake_at_budget_stderr: 0.04939743391486604
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 500
+        mistake_at_budget_stderr: 0.059798537847176154
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.024382343386820524
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.7142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.054384784830491494
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.8714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.04029615300200893
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 500
+        mistake_at_budget_stderr: 0.03611575592573076
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 500
+        mistake_at_budget_stderr: 0.059798537847176154
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.5142857142857142
+        budget: 500
+        mistake_at_budget_stderr: 0.06016835298540291
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.6285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.05816884316617731
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.7285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.053535184426749045
+    1000:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.2714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.053535184426749045
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.2
+        budget: 1000
+        mistake_at_budget_stderr: 0.04815434123430768
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.02005611766180097
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.18571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.0468151607110839
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1000
+        mistake_at_budget_stderr: 0.031004097581515393
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.02005611766180097
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1000
+        mistake_at_budget_stderr: 0.0310040975815154
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.024382343386820524
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.6142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.058599447926148025
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.35714285714285715
+        budget: 1000
+        mistake_at_budget_stderr: 0.05768377522051773
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 1000
+        mistake_at_budget_stderr: 0.05957554687344993
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.21428571428571427
+        budget: 1000
+        mistake_at_budget_stderr: 0.04939743391486604
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 1000
+        mistake_at_budget_stderr: 0.03611575592573076
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.02005611766180097
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.45714285714285713
+        budget: 1000
+        mistake_at_budget_stderr: 0.05997140203803452
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.6571428571428571
+        budget: 1000
+        mistake_at_budget_stderr: 0.05714285714285715
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 1000
+        mistake_at_budget_stderr: 0.05816884316617731
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.08571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.03370101854969077
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 1000
+        mistake_at_budget_stderr: 0.059575546873449924
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.054384784830491494
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.22857142857142856
+        budget: 1000
+        mistake_at_budget_stderr: 0.05055152782453617
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.024382343386820524
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.22857142857142856
+        budget: 1000
+        mistake_at_budget_stderr: 0.05055152782453617
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 1000
+        mistake_at_budget_stderr: 0.059575546873449924
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.02005611766180097
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1000
+        mistake_at_budget_stderr: 0.0310040975815154
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.024382343386820524
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.08571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.03370101854969077
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.05979853784717617
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.8571428571428571
+        budget: 1000
+        mistake_at_budget_stderr: 0.04212627318711347
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 1000
+        mistake_at_budget_stderr: 0.03611575592573076
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.2714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.053535184426749045
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 1000
+        mistake_at_budget_stderr: 0.05979853784717617
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 1000
+        mistake_at_budget_stderr: 0.058976782461958845
+    1500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 1500
+        mistake_at_budget_stderr: 0.03611575592573076
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 1500
+        mistake_at_budget_stderr: 0.03611575592573076
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.08571428571428572
+        budget: 1500
+        mistake_at_budget_stderr: 0.03370101854969077
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.5428571428571428
+        budget: 1500
+        mistake_at_budget_stderr: 0.05997140203803452
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 1500
+        mistake_at_budget_stderr: 0.05816884316617731
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 1500
+        mistake_at_budget_stderr: 0.05979853784717617
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.08571428571428572
+        budget: 1500
+        mistake_at_budget_stderr: 0.03370101854969077
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.0279434083955329
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.06009457202204592
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.6714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.05654448612875198
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.17142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.045371384764595464
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.24285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.051622592377504946
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.042126273187113476
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.08571428571428572
+        budget: 1500
+        mistake_at_budget_stderr: 0.03370101854969077
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.11428571428571428
+        budget: 1500
+        mistake_at_budget_stderr: 0.03830171786284779
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 1500
+        mistake_at_budget_stderr: 0.05816884316617731
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.0279434083955329
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.06009457202204592
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.7571428571428571
+        budget: 1500
+        mistake_at_budget_stderr: 0.051622592377504946
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.0279434083955329
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.22857142857142856
+        budget: 1500
+        mistake_at_budget_stderr: 0.05055152782453617
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.17142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.045371384764595464
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 1500
+        mistake_at_budget_stderr: 0.05816884316617731
+GLM_weakPref:
+  2:
+    500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.9285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.0310040975815154
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.059301863648952735
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.8285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.045371384764595464
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.7285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.053535184426749045
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.9
+        budget: 500
+        mistake_at_budget_stderr: 0.03611575592573076
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344993
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344993
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.9428571428571428
+        budget: 500
+        mistake_at_budget_stderr: 0.0279434083955329
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.9714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.02005611766180097
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.8428571428571429
+        budget: 500
+        mistake_at_budget_stderr: 0.04381267429485674
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.9285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.0310040975815154
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.8571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.042126273187113476
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.9
+        budget: 500
+        mistake_at_budget_stderr: 0.03611575592573076
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.9714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.02005611766180097
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.9714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.02005611766180097
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.9142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.03370101854969078
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.8285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.045371384764595464
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.8714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.04029615300200893
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.9428571428571428
+        budget: 500
+        mistake_at_budget_stderr: 0.0279434083955329
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.8714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.04029615300200893
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.8
+        budget: 500
+        mistake_at_budget_stderr: 0.04815434123430768
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.9
+        budget: 500
+        mistake_at_budget_stderr: 0.03611575592573076
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.9428571428571428
+        budget: 500
+        mistake_at_budget_stderr: 0.027943408395532898
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.9714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.02005611766180097
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.9142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.03370101854969077
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.9714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.02005611766180097
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.8571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.042126273187113476
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.9571428571428572
+        budget: 500
+        mistake_at_budget_stderr: 0.024382343386820524
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.8
+        budget: 500
+        mistake_at_budget_stderr: 0.048154341234307674
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.7571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.051622592377504946
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344994
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.8857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.0383017178628478
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.9285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.031004097581515393
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.8285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.045371384764595464
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.7714285714285715
+        budget: 500
+        mistake_at_budget_stderr: 0.05055152782453616
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.9571428571428572
+        budget: 500
+        mistake_at_budget_stderr: 0.024382343386820524
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.9571428571428572
+        budget: 500
+        mistake_at_budget_stderr: 0.024382343386820524
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.7
+        budget: 500
+        mistake_at_budget_stderr: 0.05516772843673705
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.9571428571428572
+        budget: 500
+        mistake_at_budget_stderr: 0.024382343386820524
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.9428571428571428
+        budget: 500
+        mistake_at_budget_stderr: 0.0279434083955329
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.8571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.04212627318711347
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.8428571428571429
+        budget: 500
+        mistake_at_budget_stderr: 0.04381267429485673
+    1000:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.5285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.06009457202204592
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 1000
+        mistake_at_budget_stderr: 0.03611575592573076
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.055886816791065795
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.12857142857142856
+        budget: 1000
+        mistake_at_budget_stderr: 0.04029615300200893
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.6285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.05816884316617732
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.04381267429485673
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.08571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.03370101854969077
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.7428571428571429
+        budget: 1000
+        mistake_at_budget_stderr: 0.05261569834670153
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.8857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.0383017178628478
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.4142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.059301863648952735
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.8285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.045371384764595464
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.05930186364895273
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.7285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.053535184426749045
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.9428571428571428
+        budget: 1000
+        mistake_at_budget_stderr: 0.0279434083955329
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.7714285714285715
+        budget: 1000
+        mistake_at_budget_stderr: 0.05055152782453616
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.5428571428571428
+        budget: 1000
+        mistake_at_budget_stderr: 0.05997140203803452
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.35714285714285715
+        budget: 1000
+        mistake_at_budget_stderr: 0.05768377522051773
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.7
+        budget: 1000
+        mistake_at_budget_stderr: 0.05516772843673705
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.7714285714285715
+        budget: 1000
+        mistake_at_budget_stderr: 0.05055152782453616
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.7571428571428571
+        budget: 1000
+        mistake_at_budget_stderr: 0.051622592377504946
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.5428571428571428
+        budget: 1000
+        mistake_at_budget_stderr: 0.05997140203803452
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.6714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.05654448612875198
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.7428571428571429
+        budget: 1000
+        mistake_at_budget_stderr: 0.05261569834670154
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.6
+        budget: 1000
+        mistake_at_budget_stderr: 0.05897678246195885
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.5285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.06009457202204592
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.9
+        budget: 1000
+        mistake_at_budget_stderr: 0.03611575592573076
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.35714285714285715
+        budget: 1000
+        mistake_at_budget_stderr: 0.05768377522051773
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.5714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.05957554687344993
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.35714285714285715
+        budget: 1000
+        mistake_at_budget_stderr: 0.05768377522051773
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 1000
+        mistake_at_budget_stderr: 0.05816884316617731
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.0279434083955329
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 1000
+        mistake_at_budget_stderr: 0.05816884316617731
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.7
+        budget: 1000
+        mistake_at_budget_stderr: 0.05516772843673704
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.9
+        budget: 1000
+        mistake_at_budget_stderr: 0.03611575592573076
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.054384784830491494
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.8
+        budget: 1000
+        mistake_at_budget_stderr: 0.048154341234307674
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 1.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.054384784830491494
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.7285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.053535184426749045
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.9
+        budget: 1000
+        mistake_at_budget_stderr: 0.036115755925730755
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.5714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.05957554687344994
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.45714285714285713
+        budget: 1000
+        mistake_at_budget_stderr: 0.05997140203803452
+    1500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.054384784830491494
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.042126273187113476
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 1500
+        mistake_at_budget_stderr: 0.05859944792614803
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.5
+        budget: 1500
+        mistake_at_budget_stderr: 0.0601929265428846
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.6142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.058599447926148025
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.043812674294856725
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.8142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.046815160711083895
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 1500
+        mistake_at_budget_stderr: 0.05979853784717617
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.5428571428571428
+        budget: 1500
+        mistake_at_budget_stderr: 0.05997140203803452
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.6857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.055886816791065795
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.6428571428571429
+        budget: 1500
+        mistake_at_budget_stderr: 0.057683775220517736
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.2571428571428571
+        budget: 1500
+        mistake_at_budget_stderr: 0.05261569834670153
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.5285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.06009457202204592
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 1500
+        mistake_at_budget_stderr: 0.05979853784717617
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.6857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.055886816791065795
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.06009457202204592
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 1500
+        mistake_at_budget_stderr: 0.05859944792614803
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.4142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.05930186364895273
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.5142857142857142
+        budget: 1500
+        mistake_at_budget_stderr: 0.06016835298540291
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.4142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.05930186364895273
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.35714285714285715
+        budget: 1500
+        mistake_at_budget_stderr: 0.05768377522051773
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.7428571428571429
+        budget: 1500
+        mistake_at_budget_stderr: 0.05261569834670153
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.17142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.045371384764595464
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 1500
+        mistake_at_budget_stderr: 0.05859944792614803
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.04212627318711347
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.04212627318711347
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.12857142857142856
+        budget: 1500
+        mistake_at_budget_stderr: 0.04029615300200893
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.06009457202204592
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.7714285714285715
+        budget: 1500
+        mistake_at_budget_stderr: 0.05055152782453616
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.042126273187113476
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.8571428571428571
+        budget: 1500
+        mistake_at_budget_stderr: 0.042126273187113476
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.9428571428571428
+        budget: 1500
+        mistake_at_budget_stderr: 0.0279434083955329
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 1500
+        mistake_at_budget_stderr: 0.03611575592573076
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 1500
+        mistake_at_budget_stderr: 0.059798537847176154
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.6857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.0558868167910658
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.32857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.05654448612875198
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.055886816791065795
+Chiong24Lemma1_trans:
+  2:
+    500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.4857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.0601683529854029
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.014285714285714287
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.34285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.05714285714285715
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.024382343386820524
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.055886816791065795
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.3
+        budget: 500
+        mistake_at_budget_stderr: 0.05516772843673704
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 500
+        mistake_at_budget_stderr: 0.05859944792614803
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.2571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.05261569834670154
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.4857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.0601683529854029
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.2571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.05261569834670153
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.8428571428571429
+        budget: 500
+        mistake_at_budget_stderr: 0.04381267429485674
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.7142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.054384784830491494
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.5
+        budget: 500
+        mistake_at_budget_stderr: 0.0601929265428846
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.5428571428571428
+        budget: 500
+        mistake_at_budget_stderr: 0.05997140203803452
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.7285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.053535184426749045
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.11428571428571428
+        budget: 500
+        mistake_at_budget_stderr: 0.03830171786284779
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.4857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.0601683529854029
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.7
+        budget: 500
+        mistake_at_budget_stderr: 0.05516772843673704
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.6
+        budget: 500
+        mistake_at_budget_stderr: 0.05897678246195885
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.2
+        budget: 500
+        mistake_at_budget_stderr: 0.04815434123430769
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.5142857142857142
+        budget: 500
+        mistake_at_budget_stderr: 0.06016835298540291
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.32857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.05654448612875198
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.22857142857142856
+        budget: 500
+        mistake_at_budget_stderr: 0.05055152782453617
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.06009457202204592
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344994
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.6857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.055886816791065795
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.5
+        budget: 500
+        mistake_at_budget_stderr: 0.0601929265428846
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.7857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.04939743391486604
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.04381267429485673
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.22857142857142856
+        budget: 500
+        mistake_at_budget_stderr: 0.05055152782453617
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 500
+        mistake_at_budget_stderr: 0.0
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.17142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.045371384764595464
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.055886816791065795
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.7428571428571429
+        budget: 500
+        mistake_at_budget_stderr: 0.05261569834670153
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.02005611766180097
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.6285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.05816884316617731
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.8142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.046815160711083895
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.0279434083955329
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 500
+        mistake_at_budget_stderr: 0.05816884316617731
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.4857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.0601683529854029
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.32857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.056544486128751986
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.5714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344994
+    1000:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.12857142857142856
+        budget: 1000
+        mistake_at_budget_stderr: 0.04029615300200893
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1000
+        mistake_at_budget_stderr: 0.0310040975815154
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.042126273187113476
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.027943408395532898
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.024382343386820524
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.027943408395532898
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.5428571428571428
+        budget: 1000
+        mistake_at_budget_stderr: 0.05997140203803452
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.5428571428571428
+        budget: 1000
+        mistake_at_budget_stderr: 0.05997140203803452
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 1000
+        mistake_at_budget_stderr: 0.05897678246195885
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1000
+        mistake_at_budget_stderr: 0.0310040975815154
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.2
+        budget: 1000
+        mistake_at_budget_stderr: 0.04815434123430768
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.02005611766180097
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 1000
+        mistake_at_budget_stderr: 0.05897678246195885
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.6285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.05816884316617731
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.2714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.053535184426749045
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.02005611766180097
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.4142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.05930186364895273
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.02005611766180097
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.2714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.05353518442674905
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1000
+        mistake_at_budget_stderr: 0.0310040975815154
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.12857142857142856
+        budget: 1000
+        mistake_at_budget_stderr: 0.04029615300200893
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.042126273187113476
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.6714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.05654448612875198
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.02005611766180097
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 1000
+        mistake_at_budget_stderr: 0.03611575592573076
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.04381267429485674
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.04381267429485673
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 1000
+        mistake_at_budget_stderr: 0.05859944792614803
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.7285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.053535184426749045
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.02005611766180097
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.18571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.0468151607110839
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.04212627318711347
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 1000
+        mistake_at_budget_stderr: 0.05979853784717617
+    1500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.0279434083955329
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.027943408395532898
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 1500
+        mistake_at_budget_stderr: 0.059798537847176154
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.6285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.05816884316617732
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.34285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.05714285714285715
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 1500
+        mistake_at_budget_stderr: 0.05979853784717618
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.6285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.05816884316617731
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.35714285714285715
+        budget: 1500
+        mistake_at_budget_stderr: 0.05768377522051773
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.042126273187113476
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.6285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.05816884316617732
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.08571428571428572
+        budget: 1500
+        mistake_at_budget_stderr: 0.03370101854969077
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.054384784830491494
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 1500
+        mistake_at_budget_stderr: 0.05979853784717617
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.08571428571428572
+        budget: 1500
+        mistake_at_budget_stderr: 0.03370101854969077
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1500
+        mistake_at_budget_stderr: 0.031004097581515393
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.06009457202204592
+GLM_trans:
+  2:
+    500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.7857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.04939743391486604
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.34285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.05714285714285715
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.6857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.055886816791065795
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.35714285714285715
+        budget: 500
+        mistake_at_budget_stderr: 0.05768377522051773
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.7142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.054384784830491494
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 500
+        mistake_at_budget_stderr: 0.059798537847176154
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 500
+        mistake_at_budget_stderr: 0.05859944792614803
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 500
+        mistake_at_budget_stderr: 0.05979853784717617
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.7
+        budget: 500
+        mistake_at_budget_stderr: 0.05516772843673704
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.8285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.045371384764595464
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.8571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.04212627318711347
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.6571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.05714285714285715
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.7571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.051622592377504946
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.6857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.055886816791065795
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.6142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.058599447926148025
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.5
+        budget: 500
+        mistake_at_budget_stderr: 0.0601929265428846
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.6142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.058599447926148025
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.9
+        budget: 500
+        mistake_at_budget_stderr: 0.03611575592573076
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.9
+        budget: 500
+        mistake_at_budget_stderr: 0.03611575592573076
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.7
+        budget: 500
+        mistake_at_budget_stderr: 0.05516772843673705
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.5714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344994
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.6714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.05654448612875198
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.5142857142857142
+        budget: 500
+        mistake_at_budget_stderr: 0.06016835298540291
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.9142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.03370101854969077
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.8428571428571429
+        budget: 500
+        mistake_at_budget_stderr: 0.04381267429485673
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.5714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344994
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.5714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344994
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.9428571428571428
+        budget: 500
+        mistake_at_budget_stderr: 0.0279434083955329
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.059301863648952735
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344993
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.02005611766180097
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344993
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.5
+        budget: 500
+        mistake_at_budget_stderr: 0.0601929265428846
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.4142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.05930186364895273
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344993
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.8285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.045371384764595464
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.8571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.042126273187113476
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.7857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.04939743391486604
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.6714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.05654448612875198
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.8571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.042126273187113476
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.8857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.0383017178628478
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.8285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.045371384764595464
+    1000:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 1000
+        mistake_at_budget_stderr: 0.05816884316617731
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.024382343386820524
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.45714285714285713
+        budget: 1000
+        mistake_at_budget_stderr: 0.05997140203803452
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.042126273187113476
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.05930186364895273
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.18571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.0468151607110839
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.0279434083955329
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.6857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.0558868167910658
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.6285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.05816884316617732
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 1000
+        mistake_at_budget_stderr: 0.05816884316617731
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.8571428571428571
+        budget: 1000
+        mistake_at_budget_stderr: 0.042126273187113476
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.6
+        budget: 1000
+        mistake_at_budget_stderr: 0.05897678246195885
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.5285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.06009457202204592
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.7714285714285715
+        budget: 1000
+        mistake_at_budget_stderr: 0.05055152782453616
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.059798537847176154
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.3
+        budget: 1000
+        mistake_at_budget_stderr: 0.05516772843673704
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.06009457202204592
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.8
+        budget: 1000
+        mistake_at_budget_stderr: 0.04815434123430768
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.7571428571428571
+        budget: 1000
+        mistake_at_budget_stderr: 0.051622592377504946
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.7857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.04939743391486604
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.6
+        budget: 1000
+        mistake_at_budget_stderr: 0.05897678246195885
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 1000
+        mistake_at_budget_stderr: 0.05957554687344993
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.05979853784717617
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.06009457202204592
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.6142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.058599447926148025
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.6428571428571429
+        budget: 1000
+        mistake_at_budget_stderr: 0.057683775220517736
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 1000
+        mistake_at_budget_stderr: 0.05816884316617731
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.7142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.054384784830491494
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 1000
+        mistake_at_budget_stderr: 0.05897678246195885
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.2714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.05353518442674905
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.024382343386820524
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.08571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.03370101854969077
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.35714285714285715
+        budget: 1000
+        mistake_at_budget_stderr: 0.05768377522051773
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.05979853784717617
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.05930186364895273
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.8428571428571429
+        budget: 1000
+        mistake_at_budget_stderr: 0.04381267429485673
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.9142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.03370101854969077
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 1000
+        mistake_at_budget_stderr: 0.05859944792614803
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.6428571428571429
+        budget: 1000
+        mistake_at_budget_stderr: 0.05768377522051773
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.9714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.02005611766180097
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.6142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.058599447926148025
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.5285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.06009457202204592
+    1500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.12857142857142856
+        budget: 1500
+        mistake_at_budget_stderr: 0.04029615300200893
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.054384784830491494
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 1500
+        mistake_at_budget_stderr: 0.05816884316617731
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 1500
+        mistake_at_budget_stderr: 0.058976782461958845
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.6142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.058599447926148025
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.2
+        budget: 1500
+        mistake_at_budget_stderr: 0.04815434123430768
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.8285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.045371384764595464
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 1500
+        mistake_at_budget_stderr: 0.05957554687344993
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 1500
+        mistake_at_budget_stderr: 0.05979853784717617
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.7714285714285715
+        budget: 1500
+        mistake_at_budget_stderr: 0.05055152782453617
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.4857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.0601683529854029
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.24285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.051622592377504946
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.5
+        budget: 1500
+        mistake_at_budget_stderr: 0.0601929265428846
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.6428571428571429
+        budget: 1500
+        mistake_at_budget_stderr: 0.057683775220517736
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 1500
+        mistake_at_budget_stderr: 0.05979853784717617
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.6285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.05816884316617732
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 1500
+        mistake_at_budget_stderr: 0.05979853784717618
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.17142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.045371384764595464
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 1500
+        mistake_at_budget_stderr: 0.05957554687344993
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.054384784830491494
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.24285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.051622592377504946
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.06009457202204592
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.08571428571428572
+        budget: 1500
+        mistake_at_budget_stderr: 0.03370101854969077
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.45714285714285713
+        budget: 1500
+        mistake_at_budget_stderr: 0.05997140203803452
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.2571428571428571
+        budget: 1500
+        mistake_at_budget_stderr: 0.05261569834670153
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.042126273187113476
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 1500
+        mistake_at_budget_stderr: 0.05859944792614803
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.4857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.0601683529854029
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.6
+        budget: 1500
+        mistake_at_budget_stderr: 0.05897678246195885
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.8714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.04029615300200893
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.9714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.2714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.053535184426749045
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.35714285714285715
+        budget: 1500
+        mistake_at_budget_stderr: 0.05768377522051773
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.7
+        budget: 1500
+        mistake_at_budget_stderr: 0.05516772843673704
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.3
+        budget: 1500
+        mistake_at_budget_stderr: 0.05516772843673704
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.4142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.05930186364895273
+LMOrtho_trans:
+  2:
+    500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.34285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.05714285714285715
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 500
+        mistake_at_budget_stderr: 0.0
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.24285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.051622592377504946
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 500
+        mistake_at_budget_stderr: 0.0
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.014285714285714287
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.34285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.05714285714285715
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.2571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.05261569834670154
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 500
+        mistake_at_budget_stderr: 0.03611575592573076
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.014285714285714287
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.02005611766180097
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.7571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.051622592377504946
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.6142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.05859944792614803
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.05930186364895273
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.054384784830491494
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 500
+        mistake_at_budget_stderr: 0.058976782461958845
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.024382343386820524
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.5428571428571428
+        budget: 500
+        mistake_at_budget_stderr: 0.05997140203803452
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.05930186364895273
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.4142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.05930186364895273
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 500
+        mistake_at_budget_stderr: 0.0
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 500
+        mistake_at_budget_stderr: 0.05816884316617731
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 500
+        mistake_at_budget_stderr: 0.0
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.0279434083955329
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.055886816791065795
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.2
+        budget: 500
+        mistake_at_budget_stderr: 0.04815434123430768
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.11428571428571428
+        budget: 500
+        mistake_at_budget_stderr: 0.03830171786284779
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.32857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.056544486128751986
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.7571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.051622592377504946
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.02005611766180097
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 500
+        mistake_at_budget_stderr: 0.03611575592573076
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 500
+        mistake_at_budget_stderr: 0.0
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.027943408395532898
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.35714285714285715
+        budget: 500
+        mistake_at_budget_stderr: 0.05768377522051773
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.0558868167910658
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 500
+        mistake_at_budget_stderr: 0.0
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 500
+        mistake_at_budget_stderr: 0.05979853784717617
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.7857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.04939743391486604
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 500
+        mistake_at_budget_stderr: 0.0
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.04381267429485673
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 500
+        mistake_at_budget_stderr: 0.05816884316617731
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.3
+        budget: 500
+        mistake_at_budget_stderr: 0.05516772843673704
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.6
+        budget: 500
+        mistake_at_budget_stderr: 0.05897678246195885
+    1000:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.2
+        budget: 1000
+        mistake_at_budget_stderr: 0.04815434123430768
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.042126273187113476
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.18571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.0468151607110839
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.0279434083955329
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.0279434083955329
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.059301863648952735
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.6571428571428571
+        budget: 1000
+        mistake_at_budget_stderr: 0.05714285714285714
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.059301863648952735
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.18571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.046815160711083895
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.24285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.051622592377504946
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 1000
+        mistake_at_budget_stderr: 0.058976782461958845
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.5714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.05957554687344993
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.2714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.053535184426749045
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.0558868167910658
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.24285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.051622592377504946
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.027943408395532898
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.024382343386820524
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.17142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.045371384764595464
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.5428571428571428
+        budget: 1000
+        mistake_at_budget_stderr: 0.05997140203803452
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1000
+        mistake_at_budget_stderr: 0.031004097581515403
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.18571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.046815160711083895
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.45714285714285713
+        budget: 1000
+        mistake_at_budget_stderr: 0.05997140203803452
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.6285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.05816884316617731
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.027943408395532898
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.24285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.051622592377504946
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.12857142857142856
+        budget: 1000
+        mistake_at_budget_stderr: 0.04029615300200893
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.45714285714285713
+        budget: 1000
+        mistake_at_budget_stderr: 0.05997140203803452
+    1500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.2
+        budget: 1500
+        mistake_at_budget_stderr: 0.04815434123430768
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.04212627318711347
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.5714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.05957554687344994
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.6285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.05816884316617731
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.7571428571428571
+        budget: 1500
+        mistake_at_budget_stderr: 0.051622592377504946
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.2714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.053535184426749045
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.4714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.06009457202204592
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 1500
+        mistake_at_budget_stderr: 0.05859944792614803
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.6142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.058599447926148025
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.054384784830491494
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 1500
+        mistake_at_budget_stderr: 0.058976782461958845
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.04381267429485673
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.0279434083955329
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.11428571428571428
+        budget: 1500
+        mistake_at_budget_stderr: 0.03830171786284779
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 1500
+        mistake_at_budget_stderr: 0.05859944792614803
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.08571428571428572
+        budget: 1500
+        mistake_at_budget_stderr: 0.03370101854969077
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.45714285714285713
+        budget: 1500
+        mistake_at_budget_stderr: 0.05997140203803452
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.8428571428571429
+        budget: 1500
+        mistake_at_budget_stderr: 0.04381267429485673
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.0279434083955329
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.2
+        budget: 1500
+        mistake_at_budget_stderr: 0.048154341234307695
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.4142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.05930186364895273
+Wagenmakers07Eq5_trans:
+  2:
+    500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.5285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.06009457202204592
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 500
+        mistake_at_budget_stderr: 0.0
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.055886816791065795
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.02005611766180097
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.24285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.051622592377504946
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.3
+        budget: 500
+        mistake_at_budget_stderr: 0.055167728436737035
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 500
+        mistake_at_budget_stderr: 0.05957554687344994
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.22857142857142856
+        budget: 500
+        mistake_at_budget_stderr: 0.05055152782453617
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.5142857142857142
+        budget: 500
+        mistake_at_budget_stderr: 0.06016835298540291
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.21428571428571427
+        budget: 500
+        mistake_at_budget_stderr: 0.04939743391486604
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.8571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.04212627318711347
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.7428571428571429
+        budget: 500
+        mistake_at_budget_stderr: 0.05261569834670154
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.6714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.05654448612875198
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.6
+        budget: 500
+        mistake_at_budget_stderr: 0.05897678246195885
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.6428571428571429
+        budget: 500
+        mistake_at_budget_stderr: 0.05768377522051773
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.04381267429485673
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.6
+        budget: 500
+        mistake_at_budget_stderr: 0.05897678246195885
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.6857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.055886816791065795
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.7714285714285715
+        budget: 500
+        mistake_at_budget_stderr: 0.05055152782453617
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.04381267429485673
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 500
+        mistake_at_budget_stderr: 0.05859944792614803
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.2571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.05261569834670153
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.055886816791065795
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 500
+        mistake_at_budget_stderr: 0.059798537847176154
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.4142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.05930186364895273
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.7571428571428571
+        budget: 500
+        mistake_at_budget_stderr: 0.051622592377504946
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.38571428571428573
+        budget: 500
+        mistake_at_budget_stderr: 0.05859944792614803
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.6142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.058599447926148025
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.2
+        budget: 500
+        mistake_at_budget_stderr: 0.04815434123430768
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.2857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.054384784830491494
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 500
+        mistake_at_budget_stderr: 0.024382343386820524
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.22857142857142856
+        budget: 500
+        mistake_at_budget_stderr: 0.05055152782453617
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.37142857142857144
+        budget: 500
+        mistake_at_budget_stderr: 0.05816884316617731
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.6714285714285714
+        budget: 500
+        mistake_at_budget_stderr: 0.05654448612875198
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 500
+        mistake_at_budget_stderr: 0.0
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.6857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.0558868167910658
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.8428571428571429
+        budget: 500
+        mistake_at_budget_stderr: 0.04381267429485673
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 500
+        mistake_at_budget_stderr: 0.0
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.05930186364895273
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.6142857142857143
+        budget: 500
+        mistake_at_budget_stderr: 0.05859944792614803
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.24285714285714285
+        budget: 500
+        mistake_at_budget_stderr: 0.051622592377504946
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.5857142857142857
+        budget: 500
+        mistake_at_budget_stderr: 0.05930186364895273
+    1000:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.18571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.0468151607110839
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1000
+        mistake_at_budget_stderr: 0.031004097581515393
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.08571428571428572
+        budget: 1000
+        mistake_at_budget_stderr: 0.03370101854969077
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1000
+        mistake_at_budget_stderr: 0.0310040975815154
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.02005611766180097
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.027943408395532898
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.02005611766180097
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.5714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.05957554687344994
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.7428571428571429
+        budget: 1000
+        mistake_at_budget_stderr: 0.05261569834670153
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.45714285714285713
+        budget: 1000
+        mistake_at_budget_stderr: 0.05997140203803452
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 1000
+        mistake_at_budget_stderr: 0.03611575592573076
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.17142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.045371384764595464
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1000
+        mistake_at_budget_stderr: 0.024382343386820524
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.4142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.05930186364895273
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.5428571428571428
+        budget: 1000
+        mistake_at_budget_stderr: 0.05997140203803452
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.21428571428571427
+        budget: 1000
+        mistake_at_budget_stderr: 0.04939743391486604
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.35714285714285715
+        budget: 1000
+        mistake_at_budget_stderr: 0.05768377522051773
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.24285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.051622592377504946
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.11428571428571428
+        budget: 1000
+        mistake_at_budget_stderr: 0.03830171786284779
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 1000
+        mistake_at_budget_stderr: 0.03611575592573076
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.04381267429485673
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.7142857142857143
+        budget: 1000
+        mistake_at_budget_stderr: 0.054384784830491494
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.014285714285714287
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.14285714285714285
+        budget: 1000
+        mistake_at_budget_stderr: 0.042126273187113476
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.21428571428571427
+        budget: 1000
+        mistake_at_budget_stderr: 0.04939743391486604
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.2
+        budget: 1000
+        mistake_at_budget_stderr: 0.04815434123430769
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.32857142857142857
+        budget: 1000
+        mistake_at_budget_stderr: 0.05654448612875198
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.7428571428571429
+        budget: 1000
+        mistake_at_budget_stderr: 0.05261569834670153
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1000
+        mistake_at_budget_stderr: 0.0
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.0279434083955329
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.2714285714285714
+        budget: 1000
+        mistake_at_budget_stderr: 0.053535184426749045
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.11428571428571428
+        budget: 1000
+        mistake_at_budget_stderr: 0.03830171786284779
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.42857142857142855
+        budget: 1000
+        mistake_at_budget_stderr: 0.05957554687344993
+    1500:
+      5:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      16:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      20:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      35:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      12:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      24:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      28:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      8:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      17:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      30:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      1:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 1500
+        mistake_at_budget_stderr: 0.05979853784717617
+      19:
+        repeats: 70
+        mistake_at_budget_mean: 0.7285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.053535184426749045
+      22:
+        repeats: 70
+        mistake_at_budget_mean: 0.4142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.059301863648952735
+      23:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      6:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.0279434083955329
+      32:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      11:
+        repeats: 70
+        mistake_at_budget_mean: 0.4142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.05930186364895273
+      36:
+        repeats: 70
+        mistake_at_budget_mean: 0.5571428571428572
+        budget: 1500
+        mistake_at_budget_stderr: 0.05979853784717617
+      37:
+        repeats: 70
+        mistake_at_budget_mean: 0.05714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.0279434083955329
+      9:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      31:
+        repeats: 70
+        mistake_at_budget_mean: 0.4
+        budget: 1500
+        mistake_at_budget_stderr: 0.05897678246195885
+      41:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      14:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      3:
+        repeats: 70
+        mistake_at_budget_mean: 0.15714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.043812674294856725
+      39:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      29:
+        repeats: 70
+        mistake_at_budget_mean: 0.014285714285714285
+        budget: 1500
+        mistake_at_budget_stderr: 0.014285714285714287
+      7:
+        repeats: 70
+        mistake_at_budget_mean: 0.1
+        budget: 1500
+        mistake_at_budget_stderr: 0.03611575592573076
+      25:
+        repeats: 70
+        mistake_at_budget_mean: 0.6714285714285714
+        budget: 1500
+        mistake_at_budget_stderr: 0.05654448612875197
+      33:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      40:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      34:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      4:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      13:
+        repeats: 70
+        mistake_at_budget_mean: 0.3142857142857143
+        budget: 1500
+        mistake_at_budget_stderr: 0.055886816791065795
+      15:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      2:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      10:
+        repeats: 70
+        mistake_at_budget_mean: 0.32857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.056544486128751986
+      18:
+        repeats: 70
+        mistake_at_budget_mean: 0.5142857142857142
+        budget: 1500
+        mistake_at_budget_stderr: 0.06016835298540291
+      21:
+        repeats: 70
+        mistake_at_budget_mean: 0.0
+        budget: 1500
+        mistake_at_budget_stderr: 0.0
+      26:
+        repeats: 70
+        mistake_at_budget_mean: 0.02857142857142857
+        budget: 1500
+        mistake_at_budget_stderr: 0.02005611766180097
+      27:
+        repeats: 70
+        mistake_at_budget_mean: 0.07142857142857142
+        budget: 1500
+        mistake_at_budget_stderr: 0.031004097581515393
+      38:
+        repeats: 70
+        mistake_at_budget_mean: 0.04285714285714286
+        budget: 1500
+        mistake_at_budget_stderr: 0.024382343386820524
+      42:
+        repeats: 70
+        mistake_at_budget_mean: 0.44285714285714284
+        budget: 1500
+        mistake_at_budget_stderr: 0.05979853784717617
