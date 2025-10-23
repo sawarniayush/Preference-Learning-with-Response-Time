@@ -144,6 +144,45 @@ function compute_allocation(
 
     if algorithm_name ∈ ["GLM"]
         θ_hat_cur_phase = solve_GLM_in_Algorithms(cur_query_history, cur_choiceOneZero_history, cur_choiceOneNegOne_history, cur_queryIdx_history, opt_model, pep.queries)
+    elseif algorithm_name ∈ ["LMOrthoreuse", "LMOrtho"]
+        X_diff = zeros(Float64, length(cur_queryIdx_history), d)
+        pref = zeros(Int, length(cur_queryIdx_history))
+        time = zeros(Float64, length(cur_queryIdx_history))
+        
+        for (i, query_idx) in enumerate(cur_queryIdx_history)
+            X_diff[i, :] = pep.queries[query_idx]
+            pref[i] = cur_choiceOneNegOne_history[i]
+            time[i] = cur_rt_history[i]
+        end
+        
+        if algorithm_name == "LMOrthoreuse"
+            # Reuse previous phase's estimation as initialization
+            
+            # Call your Python reuse function
+            w_time_sep, w_nonortho_sep = learning_functions.joint_pref_time_learning_time_separate_reuse(
+                X_diff, pref,
+                time=time,
+                no_weights=false,
+                a_val=1,
+                theta_bound = 10.0,
+            )
+
+        elseif algorithm_name == "LMOrtho"
+            # Call your Python function
+            w_time_sep, w_nonortho_sep = learning_functions.joint_pref_time_learning_time_separate(
+                X_diff, pref,
+                time=time,
+                no_weights=false,
+                a_val=1,
+                theta_bound = 10.0,
+            )
+        end
+        if isnothing(w_time_sep) || isempty(w_time_sep)
+            @error "ERROR: w_time_sep is nothing or empty"
+            return ([], [])
+        end
+        θ_hat_cur_phase = convert(Array, w_time_sep) ### Convert to Julia array directly invoking the OL loss
+    
     elseif algorithm_name ∈ ["LM", "Chiong24Lemma1", "Wagenmakers07Eq5"]
         X = nothing
         Xy = zeros(Float64, d)

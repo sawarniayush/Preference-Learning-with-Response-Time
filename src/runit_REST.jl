@@ -9,7 +9,7 @@ function runIt_RESTAPI(seed::Int64, algorithm_instance::Tuple, pep::Problem, ini
     (budget, algorithm_name, design_method, phase_η, nondecision_time, DDM_σ, DDM_barrier_from_0, subtract_nondecision_time, design_trans_initial_phase, budget_buffer_per_phase) = algorithm_instance
 
     @assert design_method ∈ ["trans", "weakPref"]
-    @assert algorithm_name ∈ ["GLM", "LM", "Chiong24Lemma1", "Wagenmakers07Eq5"]
+    @assert algorithm_name ∈ ["GLM", "LM", "LMOrthoreuse", "LMOrtho", "Chiong24Lemma1", "Wagenmakers07Eq5"]
     algorithm_name_long = algorithm_name * "_" * design_method
     if !subtract_nondecision_time
         algorithm_name_long *= "_noSubt"
