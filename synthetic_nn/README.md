@@ -54,8 +54,8 @@ Use `generate_plots.py` to rebuild figures from any results CSV. The script can 
 ### From Raw Results
 ```bash
 python generate_plots.py \
-  --raw threshold_results/raw_results.csv \
-  --output threshold_results/plots \
+  --raw results/raw_results.csv \
+  --output results/plots \
   --use raw \
   --algorithms log_loss_learner.py orthogonal_loss_learner.py nonorthogonal_loss_learner.py \
   --font-size1 24 \
