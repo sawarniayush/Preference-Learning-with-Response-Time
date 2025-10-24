@@ -6,7 +6,7 @@ This project requires `sklearn`, `numpy`, and standard plotting libraries like `
 
 ### Data Generation
 - Data is generated and stored in `data_gen/data_files`
-- Code to generate data files: `data_gen/data_gen_main.py`
+- Code to generate data files for training the linear models: `data_gen/data_gen_main.py`
 
 ### Plotting
 - Main plotting code: `plots.ipynb`
